@@ -4,11 +4,11 @@ The notebook is a very small practical in sparse reconstruction with Julia.
 
 ## Dependencies
 
-### Install Julia
+### Install `Julia`
 
-You can download Julia from [julialang.org](julialang.org) or install it with your favorite package manager.
+You can download `Julia` from [julialang.org](https://julialang.org) or install it with your favorite package manager.
 
-### Install IJulia and dependencies
+### Install `IJulia` and dependencies
 
 To run tbis notebook, you need to install `Julia`and Julia kernel:
     
